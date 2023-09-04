@@ -1,0 +1,82 @@
+#textblock {
+    background-color: #fff;
+    height: 100vh;
+  }
+  .textblock-tabs {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #textblock-container {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 70px;
+ 
+
+  }
+  
+  .luckiest-guy-2 {
+    font-family:  cursive;
+    font-size: 1rem;
+    font-weight: normal;
+  }
+  
+
+
+.luckiest-guy {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 3.5rem; 
+  color: #f9f9f9;
+}
+.my-paragraph {
+  font-size: 1rem;
+  color: #f9f9f9;
+  margin-top: 10px;
+  font-weight: bold;
+}
+  
+  #textblock-title {
+    color: #ffaf1b;
+    text-align: center;
+
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Helvetica Neue";
+  }
+  
+  #textblock-content {
+    color: #ffaf1b;
+    font-size: 20px;
+  }
+  
+  #textblock-footer {
+    color: #ffaf1b;
+    font-size: 15px;
+    font-weight: 400;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    margin-bottom: 20px;
+  
+  }
+  
+  #textblock-devsense {
+    text-decoration: none;
+    color: #ffaf1b;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  .tab-text {
+    font-size: 18px;
+    font-weight: 300;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  line-height: 3rem;
+  }
+  
+  

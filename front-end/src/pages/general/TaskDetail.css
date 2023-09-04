@@ -1,0 +1,18 @@
+.header-title {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px;
+    border: 1px solid #74c69d;
+    padding: 5px 10px;
+    background-color: #1b4332;
+    border-radius: 20px; 
+    justify-content: center; /* Align horizontally */
+
+  }
+  .file-upload-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 128, 0, 0.2);
+    padding: 20px;
+  }
+  
